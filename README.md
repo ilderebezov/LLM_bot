@@ -91,7 +91,7 @@ The project is designed to be lightweight, scalable, and easy to deploy. It uses
   ```bash
   curl -X POST http://127.0.0.10:8088/llm_bot \
        -H "Content-Type: application/json" \
-       -d '{"message": "What is the capital of France?"}'
+       -d '{"message": "What is the capital of Rassia?"}'
   ```
 - **Response**:
   ```json
@@ -204,7 +204,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, feel free to reach out:
 
 - **Email**: ilderebezo@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub**: https://github.com/ilderebezov
 
 ---
 
